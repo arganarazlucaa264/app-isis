@@ -1,4 +1,4 @@
-const CACHE = 'app-isis-shell-v1';
+const CACHE = 'app-isis-shell-v2';
 const SHELL = [
   './',
   './index.html',
