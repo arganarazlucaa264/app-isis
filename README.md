@@ -1,3 +1,4 @@
 # App Isis
-Aplicación web instalable para administrar Caja, Stock y Compras en un local de ropa.
-Archivos de la PWA listos para publicar en GitHub Pages y agregar a la pantalla de inicio de un iPhone desde Safari.
+Aplicación privada e instalable para administrar un local de ropa: Inicio, Inventario, Ventas, Caja, Compras y proveedores, Clientes, Gastos y Notificaciones.
+
+Los datos se guardan en el navegador de cada dispositivo. En iPhone, abrí el sitio desde Safari y elegí **Compartir → Agregar a pantalla de inicio**. Usá **Guardar copia** e **Importar copia** para mover tus datos entre dispositivos.

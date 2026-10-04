@@ -2,13 +2,13 @@
   "id": "./",
   "name": "App Isis",
   "short_name": "Isis",
-  "description": "Caja, stock y compras para tu local de ropa.",
+  "description": "Ventas, clientes, caja, stock, compras y gastos para tu local de ropa.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#f5f4f0",
-  "theme_color": "#20201e",
+  "background_color": "#f7f0e8",
+  "theme_color": "#30231f",
   "icons": [
     { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
     { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
